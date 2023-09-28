@@ -7,7 +7,7 @@ export default function TravelCard(props) {
                 <div className="card--location">
                     <i className="fa-solid fa-location-dot card--location-icon"></i>
                     <span className="card--country">{props.location}</span>
-                    <a href={props.googleMapsUrl} className="card--map-url">View on Google Maps</a>
+                    <a href={props.googleMapsUrl} className="card--map-url" target="_blank">View on Google Maps</a>
                 </div>
 
                 <h1 className="card--name">{props.title}</h1>
