@@ -95,6 +95,10 @@ hr {
     margin: 24px 0;
 }
 
+.travels-list hr:last-of-type {
+    display: none;
+}
+
 /* Media Queries */
 @media (min-width: 451px) {
     .card {
