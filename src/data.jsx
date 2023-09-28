@@ -1,5 +1,6 @@
 export default [
     {
+        id: 1,
         title: "Lekki Conservation Centre",
         location: "Nigeria",
         googleMapsUrl: "https://maps.app.goo.gl/jGejHSk4iaiBdZFu5",
@@ -10,6 +11,7 @@ export default [
         imageName: "lekki-conservation.jpg"
     },
     {
+        id: 2,
         title: "Cape Verde Archipelago",
         location: "Cabo Verde",
         googleMapsUrl: "https://maps.app.goo.gl/mLrM28PkNWanYWH78",
@@ -20,6 +22,7 @@ export default [
         imageName: "cape-verde.jpg"
     },
     {
+        id: 3,
         title: "Lake Retba (Lac Rose)",
         location: "Senegal",
         googleMapsUrl: "https://maps.app.goo.gl/K5T2CPcoGr5J1gnn7",
@@ -30,6 +33,7 @@ export default [
         imageName: "lake-retba.jpg"
     },
     {
+        id: 4,
         title: "Kilimanjaro",
         location: "Tanzania",
         googleMapsUrl: "https://maps.app.goo.gl/NrprHb6qw7htB5Jn9",
@@ -40,6 +44,7 @@ export default [
         imageName: "kilimanjaro.jpg"
     },
     {
+        id: 5,
         title: "Fish River Canyon",
         location: "Namibia",
         googleMapsUrl: "https://maps.app.goo.gl/v3JfE3xfaD1UxcgN6",
@@ -50,6 +55,7 @@ export default [
         imageName: "fish-river-canyon.jpg"
     },
     {
+        id: 6,
         title: "Pyramids of Giza",
         location: "Egypt",
         googleMapsUrl: "https://maps.app.goo.gl/Abb5Ex9CoHw5vkEx5",
@@ -60,6 +66,7 @@ export default [
         imageName: "pyramids-of-giza.jpg"
     },
     {
+        id: 7,
         title: "Table Mountain",
         location: "South Africa",
         googleMapsUrl: "https://maps.app.goo.gl/v1wzEAZs88PKwjw6A",
@@ -70,6 +77,7 @@ export default [
         imageName: "table-mountain.jpg"
     },
     {
+        id: 8,
         title: "Mount Mulanje",
         location: "Malawi",
         googleMapsUrl: "https://maps.app.goo.gl/5tYqS7ZZfPQDDSXH6",
