@@ -1,7 +1,7 @@
 export default function TravelCard(props) {
     return (
         <div className="card">
-            <img src={`/images/${props.imageName}`} alt={props.title} className="card--photo" />
+            <img src={`/scrimba-travel-journal/images/${props.imageName}`} alt={props.title} className="card--photo" />
 
             <div className="card--info">
                 <div className="card--location">
