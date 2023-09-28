@@ -78,6 +78,7 @@ header {
 
 .card--name {
     font-size: 25px;
+    margin-bottom: 15px;
 }
 
 .card--date {
