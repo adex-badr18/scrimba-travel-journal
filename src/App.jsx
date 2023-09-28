@@ -5,10 +5,13 @@ import travelData from './data';
 
 function App() {
   const cards = travelData.map(card => {
-    return <TravelCard 
-      key={card.id}
-      {...card}
-    />
+    return <>    
+      <TravelCard 
+        key={card.id}
+        {...card}
+      />
+      <hr />
+    </>
   })
   return (
     <div className='container'>

@@ -36,7 +36,6 @@ header {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    margin-bottom: 36px;
 }
 
 .card--info {
@@ -93,7 +92,7 @@ header {
 
 hr {
     border: 1px solid #F5F5F5;
-    margin-bottom: 24px;
+    margin: 24px 0;
 }
 
 /* Media Queries */
