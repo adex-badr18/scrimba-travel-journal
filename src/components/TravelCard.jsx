@@ -16,6 +16,7 @@ export default function TravelCard(props) {
 
                 <p className="card--description">{props.description}</p>
             </div>
+            <hr />
         </div>
     )
 }
