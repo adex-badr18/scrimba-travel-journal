@@ -9,6 +9,7 @@ function App() {
 
       <section className='travels-list'>
         <TravelCard />
+        <TravelCard />
       </section>
     </div>
   )
